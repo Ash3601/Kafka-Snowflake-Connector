@@ -1,0 +1,26 @@
+{
+    "products": [
+        {
+            "id": 103715133,
+            "entity_id": 513716692,
+            "description": "Legal Access Plan",
+            "active": 1,
+            "prenotify_days": null,
+            "end_of_life": null,
+            "sku_id": 613300747,
+            "start_of_life": null,
+            "commitment_start_offset": "INTERVAL '0' MONTH",
+            "commitment_end_offset": "INTERVAL '0' MONTH",
+            "default_billing_plan_id": null,
+            "billing_identifier_id": null,
+            "tax_classification_id": null,
+            "credit_id": null,
+            "merchant_id": 101435454,
+            "default_rate_plan_id": null,
+            "category_id": null,
+            "last_modified_ts": "2019-02-08T14:12:42.841Z",
+            "_topic": "vproduct",
+            "_source": "pgprodtestdb1"
+          }
+    ]
+}
